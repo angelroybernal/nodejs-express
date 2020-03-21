@@ -1,2 +1,2 @@
-# docker_nodejs_express
+# Docker ExpressJS
 Simple docker container with ExpressJS installed. Built with docker-compose.

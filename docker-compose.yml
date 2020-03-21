@@ -2,8 +2,6 @@ version: '3'
 services:
     expressjs:
         build:
-            context: ./
+            context: ./express
         ports:
             - 3000:3000
-        volumes:
-            - ./DocumentRoot:/opt/js
